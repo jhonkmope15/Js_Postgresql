@@ -1,0 +1,14 @@
+{
+  "name": "js_posgresql",
+  "version": "1.0.0",
+  "description": "JavaScript and PosgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jhon camilo",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
